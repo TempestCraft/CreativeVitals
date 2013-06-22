@@ -1,0 +1,4 @@
+name: CreativeVitals
+main: ca.tempestcraft.creativevitals.Main
+version: 1.0
+load: STARTUP
