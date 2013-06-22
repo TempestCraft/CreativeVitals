@@ -1,6 +1,6 @@
 <project>
-  <modelVersion>0.0.1</modelVersion>
-  <groupId>Creative Vitals</groupId>
-  <artifactId>Creative Vitals</artifactId>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>CreativeVitals</groupId>
+  <artifactId>CreativeVitals</artifactId>
   <version>0.0.1</version>
 </project>
