@@ -3,6 +3,13 @@
   <groupId>CreativeVitals</groupId>
   <artifactId>CreativeVitals</artifactId>
   <version>0.0.1</version>
+  <dependencies>
+		<dependency>
+			<groupId>org.bukkit</groupId>
+			<artifactId>bukkit</artifactId>
+			<version>1.5.2-R0.2-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
