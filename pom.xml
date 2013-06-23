@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>CreativeVitals</groupId>
   <artifactId>CreativeVitals</artifactId>
-  <version>0.0.1</version>
+  <name>PlayerStatus ${project.version}</name>
   <dependencies>
 		<dependency>
 			<groupId>org.bukkit</groupId>
@@ -12,6 +12,9 @@
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
+    <defaultGoal>clean package</defaultGoal>
+    <directory>target</directory>
+    <finalName>PlayerStatus</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -23,6 +26,9 @@
       </plugin>
     </plugins>
   </build>
+  
+  <version>1.0.0</version>
+
   <scm>
   	<url>https://github.com/TempestCraft/CreativeVitals/tree/master/</url>
   </scm>
