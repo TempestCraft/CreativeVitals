@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>CreativeVitals</groupId>
   <artifactId>CreativeVitals</artifactId>
-  <name>PlayerStatus ${project.version}</name>
+  <name>CreativeVitals ${project.version}</name>
   <dependencies>
 		<dependency>
 			<groupId>org.bukkit</groupId>
@@ -14,7 +14,7 @@
     <sourceDirectory>src</sourceDirectory>
     <defaultGoal>clean package</defaultGoal>
     <directory>target</directory>
-    <finalName>PlayerStatus</finalName>
+    <finalName>CreativeVitals</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
